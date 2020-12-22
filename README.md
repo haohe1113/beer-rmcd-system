@@ -26,6 +26,8 @@
 4. Performed sentiment analysis using [VADER](https://github.com/cjhutto/vaderSentiment) on these 300 reviews and sort them by the sentiment scores.  
 5. Recommended 3 beers to the user based on a general ranking system which combines similarity scores and attribute sentiment scores.  
 
+You could find our code [here](https://github.com/haohe1113/beer-rmcd-system/blob/main/code.ipynb)  
+
 ## Analysis and Insights  
  
 **1. Attributes chosen**  
