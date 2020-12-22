@@ -4,9 +4,9 @@
 
 ## Quick Links  
 - [Introduction](https://github.com/haohe1113/beer-rmcd-system/blob/main/README.md#Introduction)  
-- [Pakages used](https://github.com/haohe1113/beer-rmcd-system/blob/main/README.md#Pakages Used)  
+- [Pakages used](https://github.com/haohe1113/beer-rmcd-system/blob/main/README.md#Pakages-Used)  
 - [Approach](https://github.com/haohe1113/beer-rmcd-system/blob/main/README.md#Approach)  
-- [Analysis and Insights](https://github.com/haohe1113/beer-rmcd-system/blob/main/README.md#Analysis and Insights)  
+- [Analysis and Insights](https://github.com/haohe1113/beer-rmcd-system/blob/main/README.md#Analysis-and-Insights)  
 
 
 
