@@ -3,10 +3,10 @@
 ![intro](https://user-images.githubusercontent.com/47257479/102526570-7b536380-4061-11eb-923e-9d017298c5ca.jpg)  
 
 ## Quick Links  
-- [Introduction](https://github.com/haohe1113/lift-analysis-on-car-brands#Introduction)  
-- [Pakages Used ](https://github.com/haohe1113/lift-analysis-on-car-brands#Pakages-Used )  
-- [Approach](https://github.com/haohe1113/lift-analysis-on-car-brands#Approach)  
-- [Analysis and Insights](https://github.com/haohe1113/lift-analysis-on-car-brands#Analysis-and-Insights)  
+- [Introduction](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Introduction)  
+- [Pakages Used ](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Pakages-Used )  
+- [Approach](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Approach)  
+- [Analysis and Insights](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Analysis-and-Insights)  
 
 
 
