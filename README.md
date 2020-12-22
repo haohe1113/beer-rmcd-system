@@ -3,7 +3,7 @@
 ![intro](https://user-images.githubusercontent.com/47257479/102526570-7b536380-4061-11eb-923e-9d017298c5ca.jpg)  
 
 ## Quick Links
-- [Introduction](https://github.com/haohe1113/beer-rmcd-system/edit/main/README.md#Introduction)
+- [Introduction](https://github.com/haohe1113/beer-rmcd-system/blob/main/README.md#Introduction)
 - [Data Used](https://github.com/anshikaahuja/Crowdsourced-Recommendation-System-Beeradvocate/blob/master/README.md#data-used)
 - [Approach](https://github.com/anshikaahuja/Crowdsourced-Recommendation-System-Beeradvocate/blob/master/README.md#approach)
 - [Algorithms/Libraries Used](https://github.com/anshikaahuja/Crowdsourced-Recommendation-System-Beeradvocate/blob/master/README.md#algorithmslibraries-used)
