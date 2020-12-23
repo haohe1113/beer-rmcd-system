@@ -37,15 +37,15 @@ You could find our code [here](https://github.com/haohe1113/beer-rmcd-system/blo
 **Fruity:** Flavors reminiscent of various fruits;                                                                   
 **Robust:** Rich and full-bodied;    
 
-**2. Top Reviews with highest similarity scores**  
+**2. Top Products with highest similarity scores**  
 
 ![Alt Text](cos_similarity.png)  
 
-**3. Top Reviews with highest sentiment scores**  
+**3. Top Products with highest sentiment scores**  
 
 ![Alt Text](sentiment.png)  
 
-**4. Top Rated Beers from the dataset**
+**4. Top Rated Products from the dataset**
 
 ![Alt Text](user_rating.png)  
 
