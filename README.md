@@ -1,4 +1,4 @@
-# We Got Your Beers!  
+# We Got Your Beers!   
 ## Crowdsourced Beer Recommendation System  
 ![intro](https://user-images.githubusercontent.com/47257479/102526570-7b536380-4061-11eb-923e-9d017298c5ca.jpg)  
 
