@@ -28,24 +28,24 @@
 
 You could find our code [here](https://github.com/haohe1113/beer-rmcd-system/blob/main/code.ipynb)  
 
-## Analysis and Insights  
+## Analysis & Insights  
  
-**1. Attributes chosen**  
+**1. Attributes Chosen**  
 *We picked the top 3 mostly mentioned beer attributes over all reviews scraped:*    
 
 **`Sweet`:** Malty, grainy, caramel-like;  
 **`Fruity`:** Flavors reminiscent of various fruits;                                                                   
 **`Robust`:** Rich and full-bodied;    
 
-**2. Top Products with highest similarity scores**  
+**2. Top Beers With Highest Similarity Scores**  
 
 ![Alt Text](cos_similarity.png)  
 
-**3. Top Products with highest sentiment scores**  
+**3. Top Beers With Highest Sentiment Scores**  
 
 ![Alt Text](sentiment.png)  
 
-**4. Top Rated Products from the dataset**
+**4. Top Rated Beers Dataset**
 
 ![Alt Text](user_rating.png)  
 
@@ -60,7 +60,7 @@ By reading through the user reviews for the three products, we found that people
 
 Other than that, the three recommended beers also have good reputations for the thick and silky monthfeel. `Mornin Delight` has been rated highly for its pillowy carbonation and encroaching sticky texture while `Black Gold` was frequently praised by the lingering and chewy taste. `Marshmallow Handjee` however, was commented by multiple reviewers that it has a sharp carbonation which cuts through its massive body.  
 
-#### Top Rates Beers from the dataset:  
+#### Top Rates Beers from Dataset:  
 1. `Pliny The Younger`  
 2. `Marshmallow Handjee`  
 3. `Barrel Aged Imperial German Chocolate Cupcake Stout`  
