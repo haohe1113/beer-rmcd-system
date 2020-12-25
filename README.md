@@ -56,7 +56,7 @@ You could find our code [here](https://github.com/haohe1113/beer-rmcd-system/blo
 2. `Black Gold`  
 3. `Marshmallow Handjee`  
 
-By reading through the user reviews for the three products, we found that people love the maple syrup taste and the long-lasting aftertaste in `Mornin' Delight` which backs up the `sweet` preference of our user. The same thing goes to `Black Gold`, which is highly regarded for its chocolate malt, cake, vanilla and roasty flavor. `Marshmallow Handjee` gets high scores from users who love `fruity` flavor and the hit of citrus and raspberry. All of our three recommendations have a rich mix of fruity and honey flavors which fit perfectly with the user preference of sweet, robust and fruity drinks.   
+By reading through the user reviews for the three products, we found that people love the maple syrup taste and the long-lasting aftertaste in `Mornin' Delight` which backs up the `sweet` preference of our user. The same thing goes to `Black Gold`, which is highly regarded for its chocolate malt, cake, vanilla and roasty flavor. `Marshmallow Handjee` gets high scores from users who love `fruity` flavor and the hit of citrus and raspberry. All of our three recommendations have a rich mix of fruity and honey flavors which fit perfectly with the user preference of `sweet`, `robust` and `fruity` drinks.   
 
 Other than that, the three recommended beers also have good reputations for the thick and silky monthfeel. `Mornin Delight` has been rated highly for its pillowy carbonation and encroaching sticky texture while `Black Gold` was frequently praised by the lingering and chewy taste. `Marshmallow Handjee` however, was commented by multiple reviewers that it has a sharp carbonation which cuts through its massive body.  
 
