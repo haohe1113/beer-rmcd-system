@@ -45,7 +45,7 @@ You could find our code [here](https://github.com/haohe1113/beer-rmcd-system/blo
 
 ![Alt Text](sentiment.png)  
 
-**4. Top Rated Beers Dataset**
+**4. Top Rated Beers From Dataset**
 
 ![Alt Text](user_rating.png)  
 
@@ -60,7 +60,7 @@ By reading through the user reviews for the three products, we found that people
 
 Other than that, the three recommended beers also have good reputations for the thick and silky monthfeel. `Mornin Delight` has been rated highly for its pillowy carbonation and encroaching sticky texture while `Black Gold` was frequently praised by the lingering and chewy taste. `Marshmallow Handjee` however, was commented by multiple reviewers that it has a sharp carbonation which cuts through its massive body.  
 
-#### Top Rates Beers from Dataset:  
+#### Top Rates Beers From Dataset:  
 1. `Pliny The Younger`  
 2. `Marshmallow Handjee`  
 3. `Barrel Aged Imperial German Chocolate Cupcake Stout`  
